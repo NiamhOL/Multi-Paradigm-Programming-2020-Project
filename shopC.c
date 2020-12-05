@@ -1,4 +1,3 @@
-// https://alvinalexander.com/programming/printf-format-cheat-sheet
 
 #include <stdio.h>
 #include <string.h>
